@@ -1,6 +1,3 @@
 # Projeto-Git-2
 
-8458949819814
-
-
-33adcwawac
+Repositorio para testes durante "curso" Projeto Git
